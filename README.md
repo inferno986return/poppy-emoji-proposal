@@ -1,7 +1,7 @@
 # poppy-emoji-proposal
 A proposal to the Unicode Consortium regarding the inclusion of a poppy emoji. The submission has been sent to Unicode and is awaiting review (probably sometime in 2019), but feel free to discuss anything in the Issues section of this GitHub repository.
 
-![alt text](https://github.com/inferno986return/poppy-emoji-proposal/blob/master/img/poppy.png "Poppy proof-of-concept")
+[logo]: https://github.com/inferno986return/poppy-emoji-proposal/blob/master/img/poppy.png "Poppy proof-of-concept"
 
 ## Background
 
@@ -12,7 +12,8 @@ The poppy is everywhere, so naturally as an important symbol I was surprised to 
 So I started a proposal and when I reached a point when I thought it was ready to submit I sent it. However, in case of rejection (where I may need some ideas from the community) and for archival purposes I have uploaded the proposal to GitHub.
 
 ## Licensing
-![alt text](https://github.com/inferno986return/poppy-emoji-proposal/blob/master/img/ccbynd.png "CC-BY-ND")
+[logo]: https://github.com/inferno986return/poppy-emoji-proposal/blob/master/img/ccbynd.png "CC-BY-ND"
+
 The proposal itself (as a .pdf, .tex, .docx etc.) is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). I don't usually use no derivatives but I would like to maintain one definitive version of this document.
 
 The poppy graphic itself was taken from OpenClipArt and is available in the public domain. This is a proof-of-concept design and not the final version.
