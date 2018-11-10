@@ -12,8 +12,8 @@ If the Emoji subcommittee verifies that it is a good proposal, the proposal will
 The Unicode Consortium have acknowledged the proposal and have catalogued the poppy in the [Emoji Requests](https://unicode.org/emoji/emoji-requests.html) section of their website. Under *New* which means *"A proposal was received, and it is on the agenda for an upcoming meeting.".*
 
 <table>
-	<tr><td>№</td> <td>Suggested Emoji</td> <td>Status</td> <td>Category</td></tr>
-	<tr><td>**684**</td> <td>**Poppy**</td> <td>**New**</td> <td>**Plant**</td></tr>
+	<tr><th>№</th> <th>Suggested Emoji</th> <th>Status</th> <th>Category</th></tr>
+	<tr><td><b>684</b></td> <td>Poppy</td> <td>New</td> <td>Plant</td></tr>
 </table>
 
 ## Background
