@@ -3,6 +3,12 @@ A proposal to the Unicode Consortium regarding the inclusion of a poppy emoji. T
 
 <img src="https://github.com/inferno986return/poppy-emoji-proposal/blob/master/img/poppy.png" alt="Poppy proof-of-concept"/>
 
+## Status
+
+The current status of the proposal is that it has been sent to the Emoji subcommittee and is awaiting feedback from them regarding whether the proposal is well-written and meets the criteria outlined by the Unicode Consortium.
+
+If the Emoji subcommittee verifies that it is a good proposal, the proposal will be forwarded to the Unicode Consortium which will then be rejected as ineligible, given feedback to improve the proposal, or accepted as-is and will be added to presumably the 2020 Emoji standard (according to the Unicode Consortium is the deadline for the 2019 Emoji standard was 31st March 2018).
+
 ## Background
 
 The Remembrance Poppy is a well known symbol here in the UK and in other Commonwealth countries. Every year on the 11th November at 11:00am, many take a silence in memory of those lost in conflicts both in the past and in the present day.
