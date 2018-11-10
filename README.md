@@ -13,7 +13,7 @@ The Unicode Consortium have acknowledged the proposal and have catalogued the po
 
 <table>
 	<tr><th>№</th> <th>Suggested Emoji</th> <th>Status</th> <th>Category</th></tr>
-	<tr><td><b>684</b></td> <td>Poppy</td> <td>New</td> <td>Plant</td></tr>
+	<tr><td>684</td> <td>Poppy</td> <td>New</td> <td>Plant</td></tr>
 </table>
 
 ## Background
