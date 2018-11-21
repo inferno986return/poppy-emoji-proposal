@@ -11,11 +11,11 @@ The current status of the proposal is that it has been sent to the Emoji subcomm
 
 If the Emoji subcommittee verifies that it is a good proposal, the proposal will be forwarded to the Unicode Consortium which will then be rejected as ineligible, given feedback to improve the proposal, or accepted as-is and will be added to presumably the 2020 Emoji standard (according to the Unicode Consortium is the deadline for the 2019 Emoji standard was 31st March 2018).
 
-The Unicode Consortium have acknowledged the proposal and have catalogued the poppy in the [Emoji Requests](https://unicode.org/emoji/emoji-requests.html) section of their website. Under *New* which means *"A proposal was received, and it is on the agenda for an upcoming meeting.".*
+The Unicode Consortium have acknowledged the proposal and have catalogued the poppy in the [Emoji Requests](https://unicode.org/emoji/emoji-requests.html) section of their website. Under *Needs modification* which means *"The proposal is missing information requested on http://unicode.org/emoji/selection.html, or otherwise needs to be modified to make a better case. It is possible that a revised version will be recommended by the ESC as a Proposed Candidate."*
 
 <table>
 	<tr><th>№</th> <th>Suggested Emoji</th> <th>Status</th> <th>Category</th></tr>
-	<tr><td>684</td> <td>Poppy</td> <td>New</td> <td>Plant</td></tr>
+	<tr><td>688</td> <td>Poppy</td> <td>Needs modification</td> <td>Plant</td></tr>
 </table>
 
 ## Background
