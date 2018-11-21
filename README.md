@@ -5,7 +5,7 @@ A proposal to the Unicode Consortium regarding the inclusion of a poppy emoji. T
 
 ## Status
 
-**Update 21/11/2018:** The proposal has hit a snag, I need to redo the search results to show `poppy`. Also a more represensative graphic will be needed as apparently the current graphic (see below) is too similar to the hibiscus emoji (even though the hibiscus depiction in all Emoji artwork shown on the Unicode Consortium's charts are clearly pink while the proposed poppy is red.
+**Update 21/11/2018:** The proposal has hit a snag, I need to redo the search results to show `poppy`. Also a more represensative graphic will be needed as apparently the current graphic is too similar to the hibiscus emoji (even though the hibiscus depiction in all Emoji artwork shown on the [Unicode Consortium's chart](https://unicode.org/emoji/charts/full-emoji-list.html#plant-flower) are pink while the proposed poppy is red).
 
 The current status of the proposal is that it has been sent to the Emoji subcommittee and is awaiting feedback from them regarding whether the proposal is well-written and meets the criteria outlined by the Unicode Consortium.
 
