@@ -32,6 +32,8 @@ So I started a proposal and when I reached a point when I thought it was ready t
 
 The proposal itself (as a .pdf, .tex, .docx etc.) is licensed under the [Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)](https://creativecommons.org/licenses/by-nd/4.0/). I don't usually use no derivatives but I would like to maintain one definitive version of this document.
 
-The poppy graphic itself was taken from OpenClipArt and is available in the public domain. This is a proof-of-concept design and not the final version.
+The current poppy graphic was taken from [VectorStock](https://www.vectorstock.com/royalty-free-vector/red-poppy-vector-2938925) and requires a commercial license. I'm willing to pay $30 (~£23.48) if the Unicode Consortium accept it as unique.
+
+The original and now deprecated, poppy graphic was taken from OpenClipArt and is available in the public domain. This is a proof-of-concept design and not the final version.
 
 Other images in the proposal are either fair use or under a sharealike license. I have linked to them in the proposal.
