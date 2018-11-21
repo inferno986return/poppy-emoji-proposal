@@ -1,7 +1,7 @@
 # poppy-emoji-proposal
 A proposal to the Unicode Consortium regarding the inclusion of a poppy emoji. The submission has been sent to Unicode and is awaiting review (probably sometime in 2019), but feel free to discuss anything in the Issues section of this GitHub repository.
 
-<img src="https://github.com/inferno986return/poppy-emoji-proposal/blob/master/img/poppy.png" alt="Poppy proof-of-concept"/>
+<img src="https://github.com/inferno986return/poppy-emoji-proposal/blob/master/img/poppy_alt.jpg" width="500" height="540" alt="Poppy proof-of-concept"/>
 
 ## Status
 
